@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rubix/ml": "1.0.3",
+        "torian257x/ai-php-rubix-wrap": "0.9.1"
+    }
+}
